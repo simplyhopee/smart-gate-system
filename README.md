@@ -36,6 +36,12 @@ A beginner-friendly Arduino smart gate system that uses a servo motor and push b
 - Add a mobile app interface
 - Add IoT connectivity
 
+## Circuit Design
+![Circuit Diagram](smart-gate-system-circuit)
+
+## Button Triggered
+![Button Pushed](smart-gate-button-pushed)
+
 ## Author
 Shamira Robinson
-Computer Engineering Student | Aspiring Robotics Engineer
+Computer Engineering Student | Future Robotics Engineer
